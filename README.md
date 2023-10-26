@@ -32,5 +32,5 @@ Além disso, dizer o montante de venda de exportação nos últimos 15 anos, sep
 As fontes de dados utilizadas para a construção das análises foram arquivos Excel disponibilizados pela Embrapa (Empresa Brasileira de Pesquisa Agropecuária) com informações de exportação de vinhos brasileiros desde 1970.
 As bases de dados por ser acessados no link, [clicando aqui](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_06).
 
-As ferramentas utilizadas no projeto foram o Python, mais especificamente as biblioteca Pandas e Numpy para o tratamento e limpeza dos dados, Matplotlib, Seaborn e o Power BI para visualização dos dados e análises.
+As ferramentas utilizadas no projeto foram o Python, mais especificamente as bibliotecas Pandas e Numpy para o tratamento e limpeza dos dados, Matplotlib, Seaborn e o Power BI para visualização dos dados e análises.
 Além disso, utilizamos o Medium para publicar nosso artigo
