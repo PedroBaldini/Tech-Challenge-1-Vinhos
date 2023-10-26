@@ -9,7 +9,7 @@ Grupo composto pelos integrantes:
   <li>Vitor Sarilio</li>
 </ul>
 
-<h1>Problema</h1>
+<h2>Problema</h2>
 
 Imagine agora, que você vai atuar como Expert em Data Analytics em uma empresa que exporta vinhos do Brasil para o mundo todo.
 
@@ -27,3 +27,10 @@ O Head de Dados pediu para que você construísse uma tabela contendo as seguint
 
 Além disso, dizer o montante de venda de exportação nos últimos 15 anos, separando a análise por país e trazendo quais as prospecções futuras e possíveis ações para uma melhoria nas exportações. Construa gráficos atraentes e que passem a ideia central para que os acionistas e investidores possam seguir em frente com suas ações.
 
+<h2>Ferramentas utilizadas e fonte de dados</h2>
+
+As fontes de dados utilizadas para a construção das análises foram arquivos Excel disponibilizados pela Embrapa (Empresa Brasileira de Pesquisa Agropecuária) com informações de exportação de vinhos brasileiros desde 1970.
+As bases de dados por ser acessados no link, [clicando aqui](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_06).
+
+As ferramentas utilizadas no projeto foram o Python, mais especificamente as biblioteca Pandas e Numpy para o tratamento e limpeza dos dados, Matplotlib, Seaborn e o Power BI para visualização dos dados e análises.
+Além disso, utilizamos o Medium para publicar nosso artigo
